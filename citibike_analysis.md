@@ -5,7 +5,7 @@ Tableau visualization for Bike Sharing Analysis
 Tableau link: [Link to dashboard](https://public.tableau.com/profile/ines7558#!/vizhome/citiBikes_15994290590920/DesMoinesStoryChallenge?publish=yes)
 #### Overview:
 
-Study of the feasibility of starting a bike in Des Moines, IA. Bases on data of the already existing bike sharing business in New York. A set of Tableau story points provides information of the analysis.
+Study of the feasibility of starting a bike in Des Moines, IA. Based on data of the already existing bike sharing business in New York. A set of Tableau story points provides information of the analysis.
 
 #### Resources
 * Data Sources:
